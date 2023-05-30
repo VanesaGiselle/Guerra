@@ -16,6 +16,18 @@
 		934058702A2027B40007DE84 /* GuerraTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9340586F2A2027B40007DE84 /* GuerraTests.swift */; };
 		9340587A2A2027B40007DE84 /* GuerraUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 934058792A2027B40007DE84 /* GuerraUITests.swift */; };
 		9340587C2A2027B40007DE84 /* GuerraUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9340587B2A2027B40007DE84 /* GuerraUITestsLaunchTests.swift */; };
+		934058892A2027D40007DE84 /* Personaje.swift in Sources */ = {isa = PBXBuildFile; fileRef = 934058882A2027D40007DE84 /* Personaje.swift */; };
+		9340588B2A202AA80007DE84 /* Rol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9340588A2A202AA80007DE84 /* Rol.swift */; };
+		9340588D2A202CEE0007DE84 /* Localidad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9340588C2A202CEE0007DE84 /* Localidad.swift */; };
+		9340588F2A2104E60007DE84 /* Ejercito.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9340588E2A2104E60007DE84 /* Ejercito.swift */; };
+		934058922A2128860007DE84 /* Aldea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 934058912A2128860007DE84 /* Aldea.swift */; };
+		934058942A2128910007DE84 /* Ciudad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 934058932A2128910007DE84 /* Ciudad.swift */; };
+		934058972A2128D50007DE84 /* Invasion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 934058962A2128D50007DE84 /* Invasion.swift */; };
+		934058992A2129310007DE84 /* Guerrero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 934058982A2129310007DE84 /* Guerrero.swift */; };
+		9340589B2A2129410007DE84 /* Brujo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9340589A2A2129410007DE84 /* Brujo.swift */; };
+		9340589D2A2129670007DE84 /* Cazador.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9340589C2A2129670007DE84 /* Cazador.swift */; };
+		934058A02A2129D60007DE84 /* Orco.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9340589F2A2129D60007DE84 /* Orco.swift */; };
+		934058A22A2129DF0007DE84 /* Humano.swift in Sources */ = {isa = PBXBuildFile; fileRef = 934058A12A2129DF0007DE84 /* Humano.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +61,18 @@
 		934058752A2027B40007DE84 /* GuerraUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GuerraUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		934058792A2027B40007DE84 /* GuerraUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuerraUITests.swift; sourceTree = "<group>"; };
 		9340587B2A2027B40007DE84 /* GuerraUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuerraUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		934058882A2027D40007DE84 /* Personaje.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Personaje.swift; sourceTree = "<group>"; };
+		9340588A2A202AA80007DE84 /* Rol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rol.swift; sourceTree = "<group>"; };
+		9340588C2A202CEE0007DE84 /* Localidad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Localidad.swift; sourceTree = "<group>"; };
+		9340588E2A2104E60007DE84 /* Ejercito.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ejercito.swift; sourceTree = "<group>"; };
+		934058912A2128860007DE84 /* Aldea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Aldea.swift; sourceTree = "<group>"; };
+		934058932A2128910007DE84 /* Ciudad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ciudad.swift; sourceTree = "<group>"; };
+		934058962A2128D50007DE84 /* Invasion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Invasion.swift; sourceTree = "<group>"; };
+		934058982A2129310007DE84 /* Guerrero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Guerrero.swift; sourceTree = "<group>"; };
+		9340589A2A2129410007DE84 /* Brujo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Brujo.swift; sourceTree = "<group>"; };
+		9340589C2A2129670007DE84 /* Cazador.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cazador.swift; sourceTree = "<group>"; };
+		9340589F2A2129D60007DE84 /* Orco.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Orco.swift; sourceTree = "<group>"; };
+		934058A12A2129DF0007DE84 /* Humano.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Humano.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +126,9 @@
 				934058582A2027B00007DE84 /* AppDelegate.swift */,
 				9340585A2A2027B00007DE84 /* SceneDelegate.swift */,
 				9340585C2A2027B00007DE84 /* ViewController.swift */,
+				934058962A2128D50007DE84 /* Invasion.swift */,
+				934058952A2128BD0007DE84 /* Ejercito */,
+				934058902A2128770007DE84 /* Localidad */,
 				9340585E2A2027B00007DE84 /* Main.storyboard */,
 				934058612A2027B30007DE84 /* Assets.xcassets */,
 				934058632A2027B30007DE84 /* LaunchScreen.storyboard */,
@@ -125,6 +152,39 @@
 				9340587B2A2027B40007DE84 /* GuerraUITestsLaunchTests.swift */,
 			);
 			path = GuerraUITests;
+			sourceTree = "<group>";
+		};
+		934058902A2128770007DE84 /* Localidad */ = {
+			isa = PBXGroup;
+			children = (
+				9340588C2A202CEE0007DE84 /* Localidad.swift */,
+				934058912A2128860007DE84 /* Aldea.swift */,
+				934058932A2128910007DE84 /* Ciudad.swift */,
+			);
+			path = Localidad;
+			sourceTree = "<group>";
+		};
+		934058952A2128BD0007DE84 /* Ejercito */ = {
+			isa = PBXGroup;
+			children = (
+				9340588E2A2104E60007DE84 /* Ejercito.swift */,
+				934058882A2027D40007DE84 /* Personaje.swift */,
+				9340589F2A2129D60007DE84 /* Orco.swift */,
+				934058A12A2129DF0007DE84 /* Humano.swift */,
+				9340589E2A2129B90007DE84 /* Rol */,
+			);
+			path = Ejercito;
+			sourceTree = "<group>";
+		};
+		9340589E2A2129B90007DE84 /* Rol */ = {
+			isa = PBXGroup;
+			children = (
+				9340588A2A202AA80007DE84 /* Rol.swift */,
+				934058982A2129310007DE84 /* Guerrero.swift */,
+				9340589A2A2129410007DE84 /* Brujo.swift */,
+				9340589C2A2129670007DE84 /* Cazador.swift */,
+			);
+			path = Rol;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -259,8 +319,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				9340585D2A2027B00007DE84 /* ViewController.swift in Sources */,
+				934058942A2128910007DE84 /* Ciudad.swift in Sources */,
+				934058A02A2129D60007DE84 /* Orco.swift in Sources */,
+				934058992A2129310007DE84 /* Guerrero.swift in Sources */,
+				9340588F2A2104E60007DE84 /* Ejercito.swift in Sources */,
+				9340589B2A2129410007DE84 /* Brujo.swift in Sources */,
+				934058892A2027D40007DE84 /* Personaje.swift in Sources */,
 				934058592A2027B00007DE84 /* AppDelegate.swift in Sources */,
+				9340588B2A202AA80007DE84 /* Rol.swift in Sources */,
+				934058922A2128860007DE84 /* Aldea.swift in Sources */,
 				9340585B2A2027B00007DE84 /* SceneDelegate.swift in Sources */,
+				934058972A2128D50007DE84 /* Invasion.swift in Sources */,
+				934058A22A2129DF0007DE84 /* Humano.swift in Sources */,
+				9340589D2A2129670007DE84 /* Cazador.swift in Sources */,
+				9340588D2A202CEE0007DE84 /* Localidad.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
